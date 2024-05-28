@@ -2,7 +2,7 @@
     "default_acceleration": "0",
     "from": "User",
     "gap_infill_speed": "80",
-    "inherits": "0.20mm @Labor_Ender3",
+    "inherits": "0.20mm Standard @MyKlipper",
     "initial_layer_print_height": "0.25",
     "inner_wall_speed": "120",
     "internal_solid_infill_speed": "180",
